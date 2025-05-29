@@ -67,6 +67,8 @@ We use the OMDB API to fetch movie posters.
   def fetch_poster(movie_name, api_key='YOUR_API_KEY'):
       ...
   ```
+  🚀 Try it live here ⬇️
+👉 https://movie-recommender-9ruzbteornfrdj68c8hyoi.streamlit.app/
 
 ---
 
